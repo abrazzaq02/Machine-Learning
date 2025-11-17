@@ -1,8 +1,8 @@
-# 🤖 Machine Learning Laboratory  
+# 🤖 Machine  Learning
 **Department of Artificial Intelligence**  
-*Course Code:* [Insert Code]  
+ 
 *Subject:* Machine Learning (Lab)  
-*Semester:* [Insert Semester]  
+*Semester:* [5th Semester]  
 
 ---
 
