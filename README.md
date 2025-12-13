@@ -1,7 +1,7 @@
 # 🤖 Machine  Learning
 **Department of Artificial Intelligence**  
  
-*Subject:* Machine Learning (Lab)  
+*Subject:* Machine Learning  
 *Semester:* [5th Semester]  
 
 ---
